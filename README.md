@@ -1,5 +1,5 @@
 # zkzyraStealthDEX  
-![GitHub](https://img.shields.io/github/license/zyra-v23/zkzyraStealthDEX)
+![GitHub](https://img.shields.io/github/license/Zyra-V23/zkzyraStealthDEX)  
 
 **Private trading protocol with hybrid ZK proofs**  
 ✨ *"Trade like a ghost, settle like a hurricane"* ✨
